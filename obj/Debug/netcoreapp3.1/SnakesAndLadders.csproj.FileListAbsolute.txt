@@ -1,0 +1,14 @@
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.exe
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.deps.json
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.runtimeconfig.json
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.runtimeconfig.dev.json
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.dll
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netcoreapp3.1\SnakesAndLadders.pdb
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.csprojAssemblyReference.cache
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.AssemblyInfoInputs.cache
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.AssemblyInfo.cs
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.dll
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.pdb
+C:\Users\soagarw\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netcoreapp3.1\SnakesAndLadders.genruntimeconfig.cache
